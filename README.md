@@ -43,9 +43,15 @@ MISSION     : BUILD • LEARN • IMPROVE
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCeffry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9" alt="Most used languages">
 </p>
 
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberCeffry&bg_color=0D1117&color=00BFFF&line=0077FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=CyberCeffry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9"
+    alt="CyberCeffry GitHub Stats"
+    width="100%"
+  >
 </p>
+
 
 ---
 
