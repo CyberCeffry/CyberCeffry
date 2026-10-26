@@ -1,57 +1,56 @@
+
 <p align="center">
-  <img src="./github-banner.png" alt="CyberCeffry Developer Banner" width="100%">
+  <img src="./github-banner.png" width="100%" alt="CyberCeffry Developer Banner">
 </p>
 
-
-
-<h2 align="center">👋 MERHABA, BEN CYBERCEFFRY</h2>
+<h2 align="center">⚡ CYBERCEFFRY | DEVELOPER ⚡</h2>
 
 <p align="center">
-  <strong>Flutter & Dart Junior Developer</strong><br>
+  <b>Flutter & Dart Junior Developer</b><br>
   Mobil ve masaüstü uygulamalar geliştiriyorum.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/FLUTTER-00BFFF?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/DART-008CFF?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge-FIREBASE-00C8FF?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-0077B6?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ---
 
-<h3>⚡ HAKKIMDA</h3>
+<h3>▸ SYSTEM PROFILE</h3>
 
-- 💻 Flutter ve Dart ile uygulamalar geliştiriyorum.
-- 📚 Sürekli öğreniyor ve öğrendiklerimi projelerimde uyguluyorum.
-- 🎯 Mobil ve masaüstü yazılım geliştirme alanlarında ilerliyorum.
-- 🚀 Hedefim: Gerçek problemlere çözüm üreten uygulamalar geliştirmek.
+```text
+STATUS      : ALWAYS LEARNING
+FOCUS       : FLUTTER / DART
+PLATFORM    : MOBILE & DESKTOP
+MISSION     : BUILD • LEARN • IMPROVE
+```
 
-<h3>🛠️ TEKNOLOJİLER</h3>
+<h3>▸ TECHNOLOGY MATRIX</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,git,vscode,windows&theme=dark">
 </p>
 
 ---
 
-<h3>🚀 ÖNE ÇIKAN PROJELER</h3>
+<h3>▸ GITHUB ACTIVITY</h3>
 
-| Proje | Açıklama |
-|---|---|
-| 📊 Gelir-Gider Takip | Kişisel gelir ve gider yönetimi uygulaması |
-| 📄 Sözleşme Yönetimi | Sözleşme oluşturma ve belge yönetimi |
-| ⚖️ İcra Takip | İcra süreçlerini takip etmeye yönelik uygulama |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberCeffry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCeffry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberCeffry&bg_color=0D1117&color=00BFFF&line=0077FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph">
+</p>
 
 ---
 
-<h3 align="center">⚡ ALWAYS LEARNING · ALWAYS BUILDING ⚡</h3>
+<h3 align="center">[ CODE ] [ BUILD ] [ IMPROVE ]</h3>
 
-<p align="center">Daha iyi bir versiyonum için her gün yeni bir şey öğreniyorum. 🚀</p>
-
-
+<p align="center">
+  <i>Her gün daha iyi bir versiyonum için. 🚀</i>
+</p>
