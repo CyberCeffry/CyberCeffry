@@ -44,13 +44,6 @@ MISSION     : BUILD • LEARN • IMPROVE
 </p>
 
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=CyberCeffry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9"
-    alt="CyberCeffry GitHub Stats"
-    width="100%"
-  >
-</p>
 
 
 ---
